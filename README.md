@@ -147,6 +147,8 @@ Compare forecast snapshots using Lag Type classification.
 Perform interactive analysis through slicers and filters.
 Deliverables
 
+
+
 The following files are included in the submission:
 
 Power BI Dashboard (.pbix)
